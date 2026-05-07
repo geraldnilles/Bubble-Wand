@@ -1,5 +1,5 @@
 
-include </home/gerald/temp/BOSL2/std.scad>
+include <BOSL2/std.scad>
 
 // --- Parameters ---
 // Main Body Dimensions
