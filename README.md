@@ -2,7 +2,7 @@
 
 A custom-designed, 3D-printable bubble wand and storage rack, built with [OpenSCAD](https://openscad.org/) and the [BOSL2](https://github.com/BelfrySCAD/BOSL2) library.
 
-Designed by a dad for his daughters and their friends — because bubble wands should be *indestructible* and custom-fit for tiny hands.
+Designed for my daughters and their friends.
 
 ---
 
