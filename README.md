@@ -6,7 +6,9 @@ Designed for my daughters and their friends.
 
 ---
 
-## Wands
+## Wand
+
+OpenSCAD Source: [Bubble_Wand.scad](./Bubble_Wand.scad)
 
 The wand consists of two printed parts:
 
