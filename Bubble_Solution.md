@@ -1,6 +1,6 @@
 # Bubble Solution
 
-This document contains recipes of a homemade bubble solution.
+This document contains recipes for a homemade bubble solution.
 
 ## Recipe
 
@@ -38,14 +38,14 @@ This datasheet contains a ratio of the 3 main ingredients.
 - 5% Glycerin (Use pure vegetable glycerin from Amazon)
 
 This initial attempt was OK, but not nearly as good as SunSquad.  It was
-difficult to form large bubbles and once they were formed, they didnt last very
+difficult to form large bubbles and once they were formed, they didn't last very
 long. They also popped "slowly", like they were slowly tearing while the
 SunSquad bubbles popped very quickly, implying the bubble structure was
 tighter.
 
 ### Fragrance
 
-The classic blue Dawn has a very recognizable smell.  Evern at 10% dilution, it
+The classic blue Dawn has a very recognizable smell.  Even at 10% dilution, it
 is very strong. When a bubble pops near you, it is immediately noticeable.
 
 I did an experiment switching to the Dawn Free and Clear.  The smell was
@@ -53,9 +53,9 @@ non-existent and the bubble performance was the same in my testing.
 
 ### Addition of Guar Gum
 
-I noticed that the Homemade bubble solution was very watery compared to
-SunSquad which was more syrupy and viscus. I tried playing with the ratios of
-Dawn and Glycerin but it didnt seem to make much of a difference.
+I noticed that the homemade bubble solution was very watery compared to
+SunSquad which was more syrupy and viscous. I tried playing with the ratios of
+Dawn and Glycerin but it didn't seem to make much of a difference.
 
 It was suggested that I try Guar Gum. This is commonly used to thicken sauces
 when cooking. It generates long polymers in the solution which make the bubbles
@@ -69,7 +69,7 @@ I noticed that the bubble still didn't pop as quickly as SunSquad.
 
 ### Addition of Baking Powder
 
-From what i've read, this is supposed to buffer the pH of the solution and give
+From what I've read, this is supposed to buffer the pH of the solution and give
 the bubbles even more strength.  I did notice an improvement, but it wasn't as
 massive as the Guar Gum addition.  I decided to keep it in since it is a common
-household produce that seems to help.
+household product that seems to help.
