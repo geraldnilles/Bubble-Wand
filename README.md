@@ -34,6 +34,18 @@ Simply uncomment your preferred line and comment the other, then re-render.
 
 ![Circular ring render](assets/ring.png)     ![Oval ring render](assets/oval.png)
 
+### Optimized for Clean FDM Printing
+
+- 3D Model was designed to minimize the number of retractions
+- The zig-zag pattern can be printed without lifting or travling the print head
+- The 1.2mm width was optimized for my 0.6mm nozel printer. 
+    - 0.4mm nozels could likely be used by increasing the extrusion width in
+      your slicer, or decreasing the slot width.
+
+Here is a screenshot of my slicer showing the clean path that results.
+
+[Slicer Screenshot Here]
+
 ### Printing Instructions
 
 **Step 1 — Render the ring with its handle adapter:**
@@ -67,14 +79,9 @@ All adjustable values are at the top of `Bubble_Wand.scad`:
 
 ## Wand Rack / Mount
 
-The [Wand_rack_mount.scad](./Wand_rack_mount.scad) file generates a clamp-on bracket that mounts to the edge of a surface (e.g., a bubble table, plastic stool, or bench). It securely stores up to two wands by their handles.
+The [Wand_rack_mount.scad](./Wand_rack_mount.scad) file generates a clamp-on bracket that mounts to the edge of a surface (e.g., a bubble table, plastic stool, or bench). It can securely mount several wands.
 
 ![Wand rack in use](assets/wand_rack.jpg)
-
-Key features:
-- **Funnel-shaped slot opening** — wands slide in easily but stay put.
-- **Reinforced mounting flanges** with countersunk screw holes.
-- **Adjustable parameters** — resize the slot width, funnel taper, screw holes, and flange dimensions to fit your table edge.
 
 ---
 
