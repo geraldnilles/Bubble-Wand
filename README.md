@@ -88,7 +88,7 @@ The [Wand_rack_mount.scad](./Wand_rack_mount.scad) file generates a clamp-on bra
 
 ## Bubble Solution
 
-> 📖 See the [Bubble Solution Recipe](./Bubble_Solution.md) for the homemade bubble mix that makes these wands really shine.
+See the [Bubble Solution Recipe](./Bubble_Solution.md) for the homemade bubble mix that makes these wands really shine.
 
 ---
 
