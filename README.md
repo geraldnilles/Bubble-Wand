@@ -36,15 +36,16 @@ Simply uncomment your preferred line and comment the other, then re-render.
 
 ### Optimized for Clean FDM Printing
 
-- 3D Model was designed to minimize the number of retractions
-- The zig-zag pattern can be printed without lifting or travling the print head
-- The 1.2mm width was optimized for my 0.6mm nozel printer. 
-    - 0.4mm nozels could likely be used by increasing the extrusion width in
-      your slicer, or decreasing the slot width.
+This model was designed with FDM printing in mind from the start. Every feature serves to minimize retractions, eliminate unnecessary travel moves, and produce a clean, reliable print.
 
-Here is a screenshot of my slicer showing the clean path that results.
+- **Minimal retractions** — The zig-zag tooth pattern is laid down in a continuous, unbroken tool path. The nozzle never needs to lift or cross an open gap, so there's no oozing, stringing, or scarring on the finished part.
+- **No travel moves** — Each layer of the ring consists of a single, uninterrupted extrusion. The print head moves from tooth to tooth without retracting or traveling, which saves time and reduces surface blemishes.
+- **Optimized for 0.6mm nozzles** — The 1.2mm slot width is exactly two extrusion widths wide on a 0.6mm nozzle. This means the slicer can fill each tooth cleanly without gaps or thin-wall issues.
+- **0.4mm nozzle compatibility** — For 0.4mm nozzles, simply increase the extrusion width to 0.6mm in your slicer settings, or decrease the `slot_width` parameter to 0.8mm.
 
-[Slicer Screenshot Here]
+![Slicer preview showing the continuous, uninterrupted tool path across the zig-zag tooth pattern](assets/slicer_screenshot.png)
+
+The screenshot above shows the print path as planned by the slicer. Notice how the extruded lines flow continuously across the teeth — there are no retraction dots, no travel lines, and no visible starts or stops on the outer surface.
 
 ### Printing Instructions
 
